@@ -15,14 +15,16 @@
 {title:Modules}
 
 {break}
-INT01 {help Stata Interface}
-INT03 {help Data Types in Stata}
-INT02 {help Basic Data Exploratory Commands}
-INT04 {help Logical Operations}
-INT05 {help Variable and Value Lables}
-INT06 {help Data Manipulation Commands}
-INT07 {help Naming Conventions}
-INT08 {help Do-file}
+INT01 {hline 2} {help Stata Interface}{break}
+INT03 {hline 2} {help Data Types}{break}{break}
+INT02 {hline 2} {help Basic Data Exploratory Commands}{break}{break}
+INT04 {hline 2} {help Logical Operations}
+INT05 {hline 2} {help Variable and Value Lables}
+INT06 {hline 2} {help Data Transformation Commands}
+INT07 {hline 2} {help Naming Conventions}
+INT08 {hline 2} {help Imposing Codnitions}
+INT09 {hline 2} {help Imposing Codnitions}
+
 
 
 

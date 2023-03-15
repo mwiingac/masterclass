@@ -3,12 +3,12 @@
 {smcl}
 {* 14 Feb 2023}{...}
 
-{hi:introductory} 					
+{hi:intermediate} 					
 {hline}
 
 
 
-{phang}{cmdab:introductory} {hline 2} the basics to data management in Stata's {help masterclass}
+{phang}{cmdab:intermediate} {hline 2} the next level after the {help introductory} to data management in Stata's {help masterclass}. In case you have not yet taken the {help introductory} module, please do so as this module builds on the concepts learnt in the {help introductory} module.
 
 
 
@@ -16,11 +16,11 @@
 
 {break}
 INT01 {help Stata Interface}
-INT03 {help Data Types in Stata}
+INT03 {help Data Types}
 INT02 {help Basic Data Exploratory Commands}
 INT04 {help Logical Operations}
 INT05 {help Variable and Value Lables}
-INT06 {help Data Manipulation Commands}
+INT06 {help Data Transformation Commands}
 INT07 {help Naming Conventions}
 INT08 {help Do-file}
 

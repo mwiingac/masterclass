@@ -15,10 +15,10 @@
 {title:Modules}
 
 {break}
-{hline 2} [ 1 ] {hline 2} {help Introductory}{break}
-{hline 2} [ 2 ] {hline 2} {help Intermediate}{break}{break}
-{hline 2} [ 3 ] {hline 2} {help Advanced}{break}{break}
-{hline 2} [ 4 ] {hline 2} {help Developer}
+MCL01 {help Introductory}{break}
+MCL02 {help Intermediate}{break}{break}
+MCL03 {help Advanced}{break}{break}
+MCL04 {help Developer}
 
 
 

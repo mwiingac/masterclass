@@ -3,19 +3,19 @@
 {smcl}
 {* 14 Feb 2023}{...}
 
-{hi:introductory} 					
+{hi:INT0101 Stata Interface} 					
 {hline}
 
 
 
-{phang}{cmdab:introductory} {hline 2} the basics to data management in Stata's {help masterclass}
+{phang}{cmdab:Stata Interface} {hline 2} is compossed of different windows {help masterclass}
 
 
 
 {title:Modules}
 
 {break}
-INT01 {help Stata Interface}
+INT0101 {help Stata Interface}
 INT03 {help Data Types in Stata}
 INT02 {help Basic Data Exploratory Commands}
 INT04 {help Logical Operations}
