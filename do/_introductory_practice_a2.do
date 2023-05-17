@@ -179,20 +179,20 @@
 			//	browse to see the format of the student_scores variable
 			
 			
-			* 3.7.8
+			* 3.7.7
 			//	recast student_scores from float to integer
 			
 			
-			* 3.7.9
+			* 3.7.8
 			// describe student_scores to check the data storage type
 			//	browse to see the changes
 			
 			
-			* 3.7.10
+			* 3.7.9
 			//	Find the mean or average score for females
 			
 			
-			* 3.7.11
+			* 3.7.10
 			//	Find the mean or average score for males
 			
 		
